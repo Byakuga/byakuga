@@ -22,11 +22,12 @@
 <!-- ░░░ ABOUT ░░░ -->
 ```js
 const byakuga = {
-    code     : ["Python", "Lua", "JS", "TS", "Java", "C++"],
-    cursed   : ["C"],  // against my will
-    design   : ["Figma", "XD", "Photoshop", "Premiere"],
-    interests: ["reverse engineering", "binary analysis", "bot frameworks", "ui/ux"],
-    motto    : "if it has a spec, i will read it at 3am",
+    fluent    : ["C", "Lua", "Python"],
+    enthusiast: ["JavaScript", "TypeScript"],  // big fan, won't claim fluent
+    background: ["Java", "C++"],               // Java's an extra, C++ just exists
+    design    : ["Figma", "XD", "Photoshop", "Premiere"],
+    interests : ["reverse engineering", "binary analysis", "bot frameworks", "ui/ux"],
+    motto     : "if it has a spec, i'll read it at 3am",
 };
 ```
 
@@ -44,11 +45,11 @@ const byakuga = {
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=py,lua,js,ts,java,cpp&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,lua,py,js,ts,java,cpp&perline=7&theme=dark" />
 
 <br>
 
-<sub><i>...and <b>C</b>, but only because it won't let me leave.</i></sub>
+<sub><i>fluent in the first three · enthusiastic about the next two · the rest just live here</i></sub>
 
 <br><br>
 
@@ -79,7 +80,7 @@ const byakuga = {
 <br><br>
 <strong>BUILD</strong>
 <br><br>
-<sub>full-stack apps · bots<br>SDKs · gRPC services<br>proto to production</sub>
+<sub>bots · SDKs<br>gRPC services · tools<br>proto to production</sub>
 
 </td>
 <td width="33%" align="center">
@@ -102,15 +103,6 @@ const byakuga = {
 </td>
 </tr>
 </table>
-
-<br>
-
-<!-- ░░░ SNAKE ░░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Byakuga/Byakuga/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Byakuga/Byakuga/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Byakuga/Byakuga/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 <br>
 
