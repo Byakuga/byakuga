@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1500&color=39FF14&background=00000000&width=620&height=45&lines=%24+whoami;byakuga;build+%3E+break+%3E+understand" alt="byakuga" />
 
 ```nasm
-; byakuga.asm
+; jloki.asm
 
 section .identity
     role     db "code enthusiast at times"
